@@ -1,0 +1,242 @@
+[
+  {
+        "bookCityName": "腾讯新闻",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112042-0ksbejelr91n8r503qq4lhuia9nwd2l7.png",
+        "bookCityUrl": "https://xw.qq.com/"
+      },
+      {
+        "bookCityName": "搜狐",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112055-ilxr36vv28aobs2id20w80o4t6w33gkh.png",
+        "bookCityUrl": "https://m.sohu.com/"
+      },
+      {
+        "bookCityName": "新浪网",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112105-6if3w20icy104r12v73axxoxhagwnluw.png",
+        "bookCityUrl": "https://sina.cn/"
+      },
+      {
+        "bookCityName": "人民网",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112124-sjugj5kc8214hbxyllxcmiwjd5uv73un.png",
+        "bookCityUrl": "http://m.people.cn/"
+      },
+      {
+        "bookCityName": "热搜神器",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112136-nfpzd2ahbpcjnbt9jey8za8q061il87w.png",
+        "bookCityUrl": "https://www.enlightent.cn/research/"
+      },
+      {
+        "bookCityName": "百度",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112217-x1mdo5yoarmqllev2unzajuxshsdiiov.png",
+        "bookCityUrl": "https://m.baidu.com/"
+      },
+      {
+        "bookCityName": "哔哩哔哩",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112229-kaseyjcoh4x7xmmgidevynhk45q7ypwj.png",
+        "bookCityUrl": "https://m.bilibili.com/"
+      },
+      {
+        "bookCityName": "少数派",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112239-uppiasrsh8ggempwtdhcza9uwm5ueo40.png",
+        "bookCityUrl": "https://sspai.com/"
+      },
+      {
+        "bookCityName": "虎扑",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112249-oysqtipoj9pux6ymva44ykkoj451yprf.png",
+        "bookCityUrl": "https://m.hupu.com/"
+      },
+      {
+        "bookCityName": "丁香园",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112300-u6yqjixm58cr6twu50a8me8ywimy64zv.png",
+        "bookCityUrl": "http://www.dxy.cn/"
+      },
+      {
+        "bookCityName": "知乎",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112311-u3f0mmfobbh5bhti3rdr7mr1x0wwjaow.png",
+        "bookCityUrl": "https://www.zhihu.com/"
+      },
+      {
+        "bookCityName": "豆瓣",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112319-qwmhiswsx02moyetgyssx48vv420dijy.png",
+        "bookCityUrl": "https://m.douban.com/movie/"
+      },
+      {
+        "bookCityName": "头条热榜",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112204-76dbefzv0oiio47xiwl0u22tkhchrwml.png",
+        "bookCityUrl": "https://tophub.today/n/x9ozB4KoXb"
+      },
+      {
+        "bookCityName": "微信热文",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204112157-kdv0auerl5qp3fc3qeh8ew6ijp7ukfmf.png",
+        "bookCityUrl": "https://tophub.today/n/WnBe01o371"
+      },
+      {
+        "bookCityName": "花瓣美女",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/huaban.jpg",
+        "bookCityUrl": "https://huaban.com/favorite/beauty/"
+      },
+      {
+        "bookCityName": "书旗小说",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210203101144-lku62g60a1xi10w8pvqjk7jvbvy2kr64.png",
+        "bookCityUrl": "https://t.shuqi.com/"
+      },
+      {
+        "bookCityName": "网易阅读",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114712-gv9i1i1yuoa6j4m6kno3ysrklavvo18o.png",
+        "bookCityUrl": "http://m.yuedu.163.com/"
+      },
+      {
+        "bookCityName": "掌阅书城",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114722-rtcdibhqaxf0qxd1o1t146chqqnhdpa6.png",
+        "bookCityUrl": "https://m.zhangyue.com/"
+      },
+      {
+        "bookCityName": "半妖司藤",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210319141105-y6md6j81cvo3kbqgjwxieoyf535bxz7s.png",
+        "bookCityUrl": "https://wap.jjwxc.net/book2/1984217?more=0&whole=1"
+      },
+      {
+        "bookCityName": "17K小说",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210319141026-l2peth6dbc6mfhl30hrgb4cq5tct3eiz.png",
+        "bookCityUrl": "https://h5.17k.com/"
+      },
+      {
+        "bookCityName": "咪咕阅读",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210319140959-rxi2qqs271sev50rhyp3m6qcwq39xwft.png",
+        "bookCityUrl": "https://wap.cmread.com/"
+      },
+      {
+        "bookCityName": "飞卢小说",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/faloo.png",
+        "bookCityUrl": "https://wap.faloo.com/"
+      },
+      {
+        "bookCityName": "起点中文",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/qidian.png",
+        "bookCityUrl": "https://m.qidian.com/category/male?ADTAG=ssds"
+      },
+      {
+        "bookCityName": "纵横中文",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/zongheng.jpg",
+        "bookCityUrl": "https://m.zongheng.com/h5/category/nav?h5=1"
+      },
+      {
+        "bookCityName": "小说阅读网",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/readnovel.png",
+        "bookCityUrl": "https://m.readnovel.com/"
+      },
+      {
+        "bookCityName": "逐浪小说网",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/zhulang.png",
+        "bookCityUrl": "https://m.zhulang.com/"
+      },
+      {
+        "bookCityName": "红袖添香",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/hongxiu.png",
+        "bookCityUrl": "https://m.hongxiu.com/?ADTAG=ssds"
+      },
+      {
+        "bookCityName": "优书网",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/youshu.png",
+        "bookCityUrl": "https://www.yousuu.com/bookstore"
+      },
+      {
+        "bookCityName": "橙瓜",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/chenggua2.png",
+        "bookCityUrl": "http://www.chenggua.com"
+      },
+      {
+        "bookCityName": "爱奇艺文学",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/aiqiyi2.png",
+        "bookCityUrl": "https://wenxue.m.iqiyi.com/"
+      },
+      {
+        "bookCityName": "黑岩文学",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/heiyan2.png",
+        "bookCityUrl": "https://w.heiyan.com/"
+      },
+      {
+        "bookCityName": "搜狗书城",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/sougouyuedu2.png",
+        "bookCityUrl": "https://yd.sogou.com/h5/index?gf=ebye-d-p-i"
+      },
+      {
+        "bookCityName": "QQ阅读",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/qqyuedu.png",
+        "bookCityUrl": "https://ubook.reader.qq.com/?g_f=100013"
+      },
+      {
+        "bookCityName": "潇湘书院",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114814-wp0fn3pyhkylrqjnzpqi46hl0b75yy7b.png",
+        "bookCityUrl": "https://m.xxsy.net/"
+      },
+      {
+        "bookCityName": "SF轻小说",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114823-adb07xvawr6wyfmiykoyppg5zj4k8buq.png",
+        "bookCityUrl": "https://m.sfacg.com/"
+      },
+      {
+        "bookCityName": "新书强推",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114835-hr5sc5wluplcnvvnyuzfgeuzznwe79yp.png",
+        "bookCityUrl": "https://m.qidian.com/strongrec/male"
+      },
+      {
+        "bookCityName": "畅读榜单",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114845-1o7lsrehdwzqir7ml92jg0a3ojm0knnn.png",
+        "bookCityUrl": "https://m.zongheng.com/h5/rank/index/?h5=1"
+      },
+      {
+        "bookCityName": "人气收藏",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114856-qd91wn1vh40viqv9tkkj95m5gs7u5k1p.png",
+        "bookCityUrl": "https://hd.xxsy.net/publicpage/rank?ispc=1"
+      },
+      {
+        "bookCityName": "读书总榜",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114905-ei2yj98d5zgn5747iadlgodwsxkp3n3o.png",
+        "bookCityUrl": "https://weread.qq.com/web/category/all"
+      },
+      {
+        "bookCityName": "阅读排行",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114922-rhfsg1993z3tz20owkityt6e4r6h4yyk.png",
+        "bookCityUrl": "https://read.douban.com/charts"
+      },
+      {
+        "bookCityName": "有声热播",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114933-2k45b42vg1xiw1ds1cpi4pps67hbcjyu.png",
+        "bookCityUrl": "https://m.ximalaya.com/top/rise/youshengshu"
+      },
+      {
+        "bookCityName": "东方玄幻",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114646-sil6mpx69y90cmmfljm1we250f5em4oi.png",
+        "bookCityUrl": "https://m.qidian.com/category/detail?catId=21&subCatId=8&gender=male"
+      },
+      {
+        "bookCityName": "架空历史",
+        "bookCityIcon": "https://cdn.sm.cn/temp/20210204114651-6yzes80t0sog2u1xcmqs8ymqj9otdrs2.png",
+        "bookCityUrl": "https://m.qidian.com/category/detail?catId=5&subCatId=22&gender=male"
+      },
+      {
+        "bookCityName": "读者",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/duzhe.jpg",
+        "bookCityUrl": "http://new-qk.lifves.com/search.php?keyword=%E8%AF%BB%E8%80%85"
+      },
+      {
+        "bookCityName": "意林",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/yilin2.jpg",
+        "bookCityUrl": "http://new-qk.lifves.com/search.php?keyword=意林"
+      },
+      {
+        "bookCityName": "科幻世界",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/kexueshijie.jpg",
+        "bookCityUrl": "http://new-qk.lifves.com/search.php?keyword=%E7%A7%91%E5%B9%BB"
+      },
+      {
+        "bookCityName": "文苑",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/wenyuan.jpg",
+        "bookCityUrl": "http://new-qk.lifves.com/search.php?keyword=%E6%96%87%E8%8B%91"
+      },
+      {
+        "bookCityName": "期刊杂志",
+        "bookCityIcon": "https://gitee.com/yang136asf/rv-parallax-image-view/raw/master/read_lightly/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/BookCity/yuewen.png",
+        "bookCityUrl": "http://new-qk.lifves.com/wap.php?url=aHR0cCUzQSUyRiUyRm5ldy1xay5saWZ2ZXMuY29tJTJG"
+      }
+    ]
